@@ -1,2 +1,1 @@
-# Paulo
-neymar jr
+console.log("Hello from the console!");
